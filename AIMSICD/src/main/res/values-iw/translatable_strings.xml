@@ -69,7 +69,7 @@
     <string name="about_license">רישיון</string>
     <string name="about_changelog">יומן שינויים</string>
     <string name="status_idle_about_desc">בהמתנה / בטעינה.</string>
-    <string name="status_skull_about_desc">רוץ עכשיו! המכשיר שלך נפגע!</string>
+    <string name="status_skull_about_desc">לרוץ עכשיו! המכשיר שלך נפגע!</string>
     <string name="status_ok_about_desc">הכול בסדר.</string>
     <string name="about_credits">תודות</string>
     <string name="status_high_about_desc">מעקב פעיל בקרבתך!</string>
@@ -139,8 +139,8 @@
     <string name="tracking_cell_information">במעקב אחר פרטים סלולריים.</string>
     <string name="stopped_tracking_cell_information">הופסק מעקב אחר פרטים סלולריים.</string>
     <string name="stopped_tracking_femtocell">: הופסק מעקב אחר חיבורי FemtoCell.</string>
-    <string name="refreshing_every">רענן כל</string>
-    <string name="refreshing_now">מרענן כעת…</string>
+    <string name="refreshing_every">לרענן כל</string>
+    <string name="refreshing_now">בהתרעננות כעת…</string>
     <string name="seconds">שניות.</string>
     <string name="contacting_opencellid_for_data">נוצר קשר עם OpenCellID לקבלת נתונים…
 \nפעולה זו עשויה להימשך עד דקה.</string>
@@ -158,19 +158,19 @@
     <string name="title_activity_advanced_user">מחיקת מסרון שזוהה</string>
     <string name="adv_user_pref_header">הגדרות משתמש מתקדמות</string>
     <string name="adv_user_root_title">הפעלת זיהוי מסרונים</string>
-    <string name="adv_user_pref_sms_launch">מחק מסרון</string>
+    <string name="adv_user_pref_sms_launch">מחיקת מסרון</string>
     <string name="unable_to_detect_busybox">לא ניתן לאתר Busybox במכשיר שלך.
 \nהזרקת פקודה AT מחייבת שרכיבי Busybox יפעלו כראוי.
 \nנא לבדוק אם במכשיר שלך מותקן Busybox ולנסות שוב.</string>
-    <string name="adv_user_pref_sms_summary">מחק מסרון שזוהה</string>
+    <string name="adv_user_pref_sms_summary">מחיקת מסרון שזוהה</string>
     <string name="adv_user_pref_summary">הוספת ומחיקת מחרוזות הזיהוי</string>
     <string name="adv_user_root_sum">נדרשת גישת על (root) כדי להפעיל זיהוי מסרונים</string>
     <string name="typezero_title">חשוב לשים לב!</string>
     <string name="detection_strings">מחרוזות זיהוי</string>
-    <string name="status_skull">הרץ!</string>
+    <string name="status_skull">לרוץ! עכשיו!</string>
     <string name="status_ok">אישור</string>
     <string name="status_danger">סכנה</string>
-    <string name="help_app_about">הסבר על סמלי מצב ופרויקט.</string>
+    <string name="help_app_about">הסבר על סמלי מצב ומיזם.</string>
     <string name="help_app_download_local_bts">הורדת מסד הנתונים של OpenCellID.</string>
     <string name="help_app_import_cell_towers">ייבוא מסד הנתונים של CellTowers.</string>
     <string name="help_app_upload_local_bts">ה־BTS שלך נשלח למסד הנתונים של OpenCellID.</string>
@@ -245,4 +245,9 @@
     <string name="pref_refresh_automatic">אוטומטי</string>
     <string name="help_settings_reset_db">פינוי ואיפוס כל הטבלאות או טבלאות מסוימות במסד הנתונים.</string>
     <string name="help_app_add_get_ocid_api_key">קבלת מפתח API לשימוש במסד הנתונים OpenCellID כדי להעלות ולהוריד נתונים…</string>
+    <string name="help_main_antenna_map_view">מפה של אנטנות סמוכות לפי קוד בצבעים.</string>
+    <string name="help_main_acd">הצגת השוואה מפורטת של התא המחובר כעת, מול הנתונים (אם יש) שנמצאים ב־OpenCellID ולהדגיש את השינויים.</string>
+    <string name="help_tracking_toggle_attack_detection">הפעלת/עצירת זיהוי תקיפות ואיסוף פרטי תאים לטבלאות פנימיות במסד הנתונים.</string>
+    <string name="help_main_at_command_interface">ממשק שמאפשר לשלוח פקודות AT למעבד רצועת בסיס (דורש הרשאות על - root).</string>
+    <string name="help_main_database_viewer">הצגת טבלאות מסד הנתונים השונות שיש לנו.</string>
 </resources>
