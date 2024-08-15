@@ -187,9 +187,9 @@
     <string name="typewap_header">זוהתה דחיפת WAP</string>
     <string name="help_main_phone_sim_details">פרטי ספק רשת SIM,‏ IMEI,‏ TMSI.</string>
     <string name="delete_database_msg_success">מסד הנתונים נמחק ונוצר מחדש בהצלחה.
-\nאנא הפעל מחדש את האפליקציה כדי לנקות ערכים ישנים שנמצאים בזיכרון.</string>
-    <string name="help_app_debugging">אסוף ושלח יומני שגיאות.</string>
-    <string name="invalid_key_try_later">מפתח OpenCellId לא חוקי, נסה שוב מאוחר יותר.</string>
+\nנא להפעיל את היישומון מחדש כדי לנקות ערכים ישנים שנמצאים בזיכרון.</string>
+    <string name="help_app_debugging">איסוף ושליחת יומני שגיאות.</string>
+    <string name="invalid_key_try_later">מפתח OpenCellId שגוי, נא לנסות שוב מאוחר יותר.</string>
     <string name="unknown">לא ידוע</string>
     <string name="deleted">נמחק</string>
     <string name="n_a">N/A</string>
@@ -199,4 +199,23 @@
     <string name="network_baseid">מזהה תחנת בסיס:</string>
     <string name="location_error_title">שירותי מיקום מושבתים</string>
     <string name="getting_ocid_key">מקבל מפתח API של OpenCellId...</string>
+    <string name="at_command_response_looking">*** מתבצע חיפוש אחר התקני AT טוריים…
+\n</string>
+    <string name="unique_bts_data">נתוני BTS ייחודיים</string>
+    <string name="silent_sms">מסרון שקט</string>
+    <string name="eventlog">יומן אירועים</string>
+    <string name="measured_signal_strengths">עוצמות אות שנמדדו</string>
+    <string name="at_command_response_found">נמצאו:</string>
+    <string name="help_app_quit">יציאה מהיישומון הזה.</string>
+    <string name="waiting_for_location">בהמתנה למיקום…</string>
+    <string name="needs_location">צריך מיקום</string>
+    <string name="bts_measurements">מדידות BTS</string>
+    <string name="imported_ocid_data">נתוני OpenCellID מיובאים</string>
+    <string name="default_mmc_locations">מקומות MCC כברירת מחדל</string>
+    <string name="currently_connected_bts">BTS שמחובר כרגע</string>
+    <string name="well_known_encrypted_bts">BTS מוכר היטב ומוצפון</string>
+    <string name="unknown_or_insecure_bts">BTS לא מוכר או מפוקפק</string>
+    <string name="new_or_recently_added_bts">BTS חדש או שנוסף לאחרונה</string>
+    <string name="at_command_response_setup_complete">*** ההגדרה הושלמה ***
+\n</string>
 </resources>
