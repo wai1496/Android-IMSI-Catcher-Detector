@@ -255,4 +255,7 @@
     <string name="pref_ocid_title">הגדרות OpenCellID</string>
     <string name="ocid_api_success">מפתח API חדש נשמר.</string>
     <string name="title_debug_logs">יומני ניפוי באגים</string>
+    <string name="btn_stop_logs">עצור</string>
+    <string name="btn_start_logs">התחל</string>
+    <string name="msg_copied_to_clipboard">יומני הרישום הועתקו ללוח.</string>
 </resources>
