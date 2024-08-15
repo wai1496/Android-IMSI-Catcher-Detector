@@ -190,4 +190,13 @@
 \nאנא הפעל מחדש את האפליקציה כדי לנקות ערכים ישנים שנמצאים בזיכרון.</string>
     <string name="help_app_debugging">אסוף ושלח יומני שגיאות.</string>
     <string name="invalid_key_try_later">מפתח OpenCellId לא חוקי, נסה שוב מאוחר יותר.</string>
+    <string name="unknown">לא ידוע</string>
+    <string name="deleted">נמחק</string>
+    <string name="n_a">N/A</string>
+    <string name="failed_to_delete">מחיקה נכשלה</string>
+    <string name="network_netid">מזהה רשת:</string>
+    <string name="network_sysid">מזהה מערכת:</string>
+    <string name="network_baseid">מזהה תחנת בסיס:</string>
+    <string name="location_error_title">שירותי מיקום מושבתים</string>
+    <string name="getting_ocid_key">מקבל מפתח API של OpenCellId...</string>
 </resources>
