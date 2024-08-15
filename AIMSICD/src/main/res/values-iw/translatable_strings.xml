@@ -119,7 +119,7 @@
     <string name="settings">הגדרות</string>
     <string name="database_settings">מסד נתונים</string>
     <string name="monitoring_cell_information">ניטור מידע סלולרי.</string>
-    <string name="stopped_monitoring_cell_information">הפסיק לנטר מידע סלולרי.</string>
+    <string name="stopped_monitoring_cell_information">הופסק ניטור מידע סלולרי.</string>
     <string name="sms_title">התגלה מסרון שקט</string>
     <string name="pref_protection_title">הגדרות הגנה</string>
     <string name="pref_enable_cell_title">מעקב תאים</string>
@@ -134,10 +134,10 @@
     <string name="table_contains_no_data">הטבלה לא מכילה נתונים להצגה.</string>
     <string name="title_ocid_key">מפתח API של OpenCellID</string>
     <string name="service_state_changed">מצב השירות השתנה!</string>
-    <string name="femtocell_only_on_cdma_devices">AIMSICD יכול לזהות רק חיבורי FemtoCell בהתקני CDMA.</string>
+    <string name="femtocell_only_on_cdma_devices">AIMSICD יכול לזהות חיבורי FemtoCell רק בהתקני CDMA.</string>
     <string name="alert_femtocell_tracking_detected">התראה: זוהה מעקב FemtoCell!</string>
-    <string name="tracking_cell_information">עוקב אחר מידע סלולרי.</string>
-    <string name="stopped_tracking_cell_information">הפסיק לעקוב אחר מידע סלולרי.</string>
+    <string name="tracking_cell_information">במעקב אחר פרטים סלולריים.</string>
+    <string name="stopped_tracking_cell_information">הופסק מעקב אחר פרטים סלולריים.</string>
     <string name="stopped_tracking_femtocell">: הפסיק לעקוב אחר חיבורי FemtoCell.</string>
     <string name="refreshing_every">מרענן כל</string>
     <string name="refreshing_now">מרענן כעת…</string>
