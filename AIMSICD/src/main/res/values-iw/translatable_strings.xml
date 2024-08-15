@@ -186,4 +186,8 @@
 \nלפרטים: נא לפנות למציג מסד הנתונים.</string>
     <string name="typewap_header">זוהתה דחיפת WAP</string>
     <string name="help_main_phone_sim_details">פרטי ספק רשת SIM,‏ IMEI,‏ TMSI.</string>
+    <string name="delete_database_msg_success">מסד הנתונים נמחק ונוצר מחדש בהצלחה.
+\nאנא הפעל מחדש את האפליקציה כדי לנקות ערכים ישנים שנמצאים בזיכרון.</string>
+    <string name="help_app_debugging">אסוף ושלח יומני שגיאות.</string>
+    <string name="invalid_key_try_later">מפתח OpenCellId לא חוקי, נסה שוב מאוחר יותר.</string>
 </resources>
