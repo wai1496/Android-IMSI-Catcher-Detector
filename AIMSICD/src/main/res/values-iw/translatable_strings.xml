@@ -261,4 +261,8 @@
     <string name="btn_clear_logs">פינוי</string>
     <string name="btn_copy_to_clipboard">העתקה</string>
     <string name="status_idle_detail_info">היישומון מושבב או בטעינה. הגנה ואיתור אינן פעילות. נא להפעיל זיהוי.</string>
+    <string name="only_one_key_per_day">ניתן לבצע רק בקשת מפתח API חדשה אחת ל-24 שעות!
+\nאנא נסה שוב מאוחר יותר.</string>
+    <string name="cell_id_doesnt_exist_in_db">מזהה תא שאינו במסד הנתונים של OpenCellID!</string>
+    <string name="status_ok_description">מצב: טוב. לא זוהו איומים.</string>
 </resources>
