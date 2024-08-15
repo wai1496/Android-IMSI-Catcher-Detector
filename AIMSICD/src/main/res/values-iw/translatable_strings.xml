@@ -192,13 +192,13 @@
     <string name="invalid_key_try_later">מפתח OpenCellId שגוי, נא לנסות שוב מאוחר יותר.</string>
     <string name="unknown">לא ידוע</string>
     <string name="deleted">נמחק</string>
-    <string name="n_a">N/A</string>
+    <string name="n_a">לא זמין</string>
     <string name="failed_to_delete">מחיקה נכשלה</string>
     <string name="network_netid">מזהה רשת:</string>
     <string name="network_sysid">מזהה מערכת:</string>
     <string name="network_baseid">מזהה תחנת בסיס:</string>
     <string name="location_error_title">שירותי מיקום מושבתים</string>
-    <string name="getting_ocid_key">מקבל מפתח API של OpenCellId...</string>
+    <string name="getting_ocid_key">מתקבל מפתח API של OpenCellId…</string>
     <string name="at_command_response_looking">*** מתבצע חיפוש אחר התקני AT טוריים…
 \n</string>
     <string name="unique_bts_data">נתוני BTS ייחודיים</string>
@@ -218,4 +218,8 @@
     <string name="new_or_recently_added_bts">BTS חדש או שנוסף לאחרונה</string>
     <string name="at_command_response_setup_complete">*** ההגדרה הושלמה ***
 \n</string>
+    <string name="double_quote_will_cause_db_error">"מחרוזת לא נוספה
+\n \" מירכאות כפולות תגרומנה לשגיאת מסד נתונים "</string>
+    <string name="the_string_was_added_to_db">המחרוזת נוספה למסד הנתונים</string>
+    <string name="failed_to_add_the_string_to_db">הוספת המחרוזת למסד הנתונים נכשלה</string>
 </resources>
