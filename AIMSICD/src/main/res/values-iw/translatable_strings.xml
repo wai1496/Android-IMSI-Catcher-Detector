@@ -27,10 +27,12 @@
     <string name="import_cell_towers">ייבוא נתוני CellTowers</string>
     <string name="sim_imsi">IMSI:</string>
     <string name="device_type">סוג טלפון:</string>
-    <string name="device_imei">IMEI:</string>
+    <string name="device_imei">IMEI (מס׳ ברזל):</string>
     <string name="sim_country">מדינה:</string>
     <string name="ciphering_indicator_title">מחוון הצפנה</string>
     <string name="sim_operator_id">מזהה מפעיל:</string>
     <string name="sim_operator_name">שם מפעיל:</string>
-    <string name="neighboring_cells_num_title">הכל:</string>
+    <string name="neighboring_cells_num_title">סך הכול:</string>
+    <string name="device_version">גרסת RIL:</string>
+    <string name="network_name">שם ספק:</string>
 </resources>
