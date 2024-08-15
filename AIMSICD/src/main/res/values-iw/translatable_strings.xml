@@ -60,8 +60,8 @@
     <string name="about_releases">מהדורות</string>
     <string name="pref_system_title">הגדרות מערכת</string>
     <string name="pref_autostart_title">הפעלה אוטומטית</string>
-    <string name="pref_autostart_summ">הפעל את השירות באופן אוטומטי באתחול</string>
-    <string name="pref_ocid_key_summ">הזן את מפתח ה-API של OpenCellID כאן</string>
+    <string name="pref_autostart_summ">להפעיל את השירות אוטומטית עם העלייה</string>
+    <string name="pref_ocid_key_summ">נא למלא כאן את מפתח ה־API של OpenCellID</string>
     <string name="pref_enable_cell_monitoring_title">ניטור תאים</string>
     <string name="pref_enable_cell_monitoring_summ">הפעלת ניטור תאים אוטומטית</string>
     <string name="pref_request_ocid_key">בקשת מפתח API של OpenCellID</string>
@@ -78,9 +78,9 @@
     <string name="status_ok_detail_info">לא זוהו איומים. הרשת שלך נבדקת כל הזמן על סמך הגדרות הזיהוי המופעלות.</string>
     <string name="serial_device_spinner_title">מכשירים שזוהו:</string>
     <string name="timeout_spinner_title">פסק זמן:</string>
-    <string name="timeout_spinner_prompt">בחר פסק זמן</string>
+    <string name="timeout_spinner_prompt">בחירת פסק זמן</string>
     <string name="title_activity_about_pop_up">הסבר מפורט</string>
-    <string name="status_medium_detail_info">אזור שירות לא מאובטח: לפחות 1 BTS חדש או לא ידוע פועל בסביבה זו, או באמצעות אלגוריתם הצפנה לא מאובטח (שבור) נמוך מ-A5/3. ניתן ליירט ולהקליט כל שיחות טלפון/SMS שנעשו באזור זה. עזוב את המקום הזה במהירות.</string>
+    <string name="status_medium_detail_info">אזור שירות מפוקפק: לפחות 1 BTS חדש או לא ידוע פועל בסביבה זו, או באמצעות אלגוריתם הצפנה לא מאובטח (שבור) נמוך מ־A5/3. ניתן ליירט ולהקליט כל שיחות טלפון/מסרונים שנערכו באזור זה. נא לעזוב את המקום הזה במהירות.</string>
     <string name="mcc_label">MCC:</string>
     <string name="mnc_label">MNC:</string>
     <string name="pc_label">PC:</string>
@@ -120,4 +120,17 @@
     <string name="database_settings">מסד נתונים</string>
     <string name="monitoring_cell_information">ניטור מידע סלולרי.</string>
     <string name="stopped_monitoring_cell_information">הפסק לנטר מידע סלולרי.</string>
+    <string name="sms_title">התגלה מסרון שקט</string>
+    <string name="pref_protection_title">הגדרות הגנה</string>
+    <string name="pref_enable_cell_title">מעקב תאים</string>
+    <string name="pref_notification_settings">הגדרות התראה</string>
+    <string name="pref_enable_cell_summ">הפעלת מעקב תאים אוטומטי</string>
+    <string name="pref_persistservice_title">שירות מקובע</string>
+    <string name="pref_persistservice_summ">השירות ימשיך לרוץ גם לאחר סגירת היישומון (יש לבטל את הסימון כדי לסגור לחלוטין)</string>
+    <string name="pref_femto_summ">(כרגע לטלפונים עם CDMA בלבד!)</string>
+    <string name="command_hint">נא למלא כאן פקודת AT.</string>
+    <string name="sms_message">התגלה מסרון שקט!
+\nלפרטים: יש לגשת למציג מסד הנתונים.</string>
+    <string name="table_contains_no_data">הטבלה לא מכילה נתונים להצגה.</string>
+    <string name="title_ocid_key">מפתח API של OpenCellID</string>
 </resources>
