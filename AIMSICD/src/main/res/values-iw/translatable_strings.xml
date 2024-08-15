@@ -69,7 +69,7 @@
     <string name="about_license">רישיון</string>
     <string name="about_changelog">יומן שינויים</string>
     <string name="status_idle_about_desc">בהמתנה / בטעינה.</string>
-    <string name="status_skull_about_desc">לרוץ עכשיו! המכשיר שלך נפגע!</string>
+    <string name="status_skull_about_desc">רוץ עכשיו! המכשיר שלך נפגע!</string>
     <string name="status_ok_about_desc">הכול בסדר.</string>
     <string name="about_credits">תודות</string>
     <string name="status_high_about_desc">מעקב פעיל בקרבתך!</string>
@@ -222,4 +222,8 @@
 \n \" מירכאות כפולות תגרומנה לשגיאת מסד נתונים "</string>
     <string name="the_string_was_added_to_db">המחרוזת נוספה למסד הנתונים</string>
     <string name="failed_to_add_the_string_to_db">הוספת המחרוזת למסד הנתונים נכשלה</string>
+    <string name="location_error_message">אינך יכול לעקוב אחר נתוני GPS מבלי להפעיל שירותי מיקום. להפעיל אותם כעת?</string>
+    <string name="pref_enable_gps_title">הגדרות GPS</string>
+    <string name="about_desc_icon_title">לחץ על סמלי המצב למטה לקבלת מידע מפורט:</string>
+    <string name="pref_ocid_key_title">מפתח API של OpenCellID</string>
 </resources>
