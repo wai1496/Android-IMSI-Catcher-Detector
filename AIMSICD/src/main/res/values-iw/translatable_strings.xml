@@ -75,4 +75,10 @@
     <string name="status_high_about_desc">מעקב פעיל בקרבתך!</string>
     <string name="status_danger_about_desc">עוקבים אחריך!</string>
     <string name="status_medium_about_desc">אזור עם שירות מפוקפק. כדאי לזוז!</string>
+    <string name="status_ok_detail_info">לא זוהו איומים. הרשת שלך נבדקת כל הזמן על סמך הגדרות הזיהוי המופעלות.</string>
+    <string name="serial_device_spinner_title">מכשירים שזוהו:</string>
+    <string name="timeout_spinner_title">פסק זמן:</string>
+    <string name="timeout_spinner_prompt">בחר פסק זמן</string>
+    <string name="title_activity_about_pop_up">הסבר מפורט</string>
+    <string name="status_medium_detail_info">אזור שירות לא מאובטח: לפחות 1 BTS חדש או לא ידוע פועל בסביבה זו, או באמצעות אלגוריתם הצפנה לא מאובטח (שבור) נמוך מ-A5/3. ניתן ליירט ולהקליט כל שיחות טלפון/SMS שנעשו באזור זה. עזוב את המקום הזה במהירות.</string>
 </resources>
