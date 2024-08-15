@@ -139,8 +139,8 @@
     <string name="tracking_cell_information">במעקב אחר פרטים סלולריים.</string>
     <string name="stopped_tracking_cell_information">הופסק מעקב אחר פרטים סלולריים.</string>
     <string name="stopped_tracking_femtocell">: הופסק מעקב אחר חיבורי FemtoCell.</string>
-    <string name="refreshing_every">לרענן כל</string>
-    <string name="refreshing_now">מתרענן כעת…</string>
+    <string name="refreshing_every">רענן כל</string>
+    <string name="refreshing_now">מרענן כעת…</string>
     <string name="seconds">שניות.</string>
     <string name="contacting_opencellid_for_data">נוצר קשר עם OpenCellID לקבלת נתונים…
 \nפעולה זו עשויה להימשך עד דקה.</string>
@@ -241,4 +241,6 @@
     <string name="ocid_api_error">שגיאה בקבלת מפתח:</string>
     <string name="message_request_api_key">לחץ על אישור כדי לבקש מפתח API מ-OpenCellID.org. זה יאפשר לך להוריד את הנתונים שלהם ולהציג אותם במפה. זה גם יאפשר לך להעלות נתונים סלולריים. שים לב שאם לא תעלה נתונים סלולריים תוך 20 יום, מפתח ה-API שלך עלול להפוך ללא פעיל.</string>
     <string name="map_type_normal">רגיל</string>
+    <string name="pref_refresh_manual">ידני</string>
+    <string name="pref_refresh_automatic">אוטומטי</string>
 </resources>
