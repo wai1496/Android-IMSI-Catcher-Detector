@@ -63,9 +63,9 @@
     <string name="pref_autostart_summ">הפעל את השירות באופן אוטומטי באתחול</string>
     <string name="pref_ocid_key_summ">הזן את מפתח ה-API של OpenCellID כאן</string>
     <string name="pref_enable_cell_monitoring_title">ניטור תאים</string>
-    <string name="pref_enable_cell_monitoring_summ">הפעל ניטור תאים אוטומטי</string>
-    <string name="pref_request_ocid_key">בקש מפתח API של OpenCellID</string>
-    <string name="pref_ocid_requestkey_summary">בקש מפתח API עבור גישה לנתונים של OpenCellID</string>
+    <string name="pref_enable_cell_monitoring_summ">הפעלת ניטור תאים אוטומטית</string>
+    <string name="pref_request_ocid_key">בקשת מפתח API של OpenCellID</string>
+    <string name="pref_ocid_requestkey_summary">בקשת מפתח API לגישה לנתונים של OpenCellID</string>
     <string name="about_license">רישיון</string>
     <string name="about_changelog">יומן שינויים</string>
     <string name="status_idle_about_desc">בהמתנה / בטעינה.</string>
@@ -81,4 +81,14 @@
     <string name="timeout_spinner_prompt">בחר פסק זמן</string>
     <string name="title_activity_about_pop_up">הסבר מפורט</string>
     <string name="status_medium_detail_info">אזור שירות לא מאובטח: לפחות 1 BTS חדש או לא ידוע פועל בסביבה זו, או באמצעות אלגוריתם הצפנה לא מאובטח (שבור) נמוך מ-A5/3. ניתן ליירט ולהקליט כל שיחות טלפון/SMS שנעשו באזור זה. עזוב את המקום הזה במהירות.</string>
+    <string name="mcc_label">MCC:</string>
+    <string name="mnc_label">MNC:</string>
+    <string name="pc_label">PC:</string>
+    <string name="samples_label">דגימות:</string>
+    <string name="open_cell_id_label">נתוני OpenCellID</string>
+    <string name="pref_map_type_summ">הצגת מפה במגוון סגנונות</string>
+    <string name="cell_id_label">CID (מזהה תא):</string>
+    <string name="pref_map_title">העדפות מציג מפה</string>
+    <string name="lac_label">LAC:</string>
+    <string name="pref_map_type_title">סוג מפה</string>
 </resources>
