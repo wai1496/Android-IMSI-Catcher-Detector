@@ -237,10 +237,12 @@
     <string name="pref_ui_title">הגדרות ממשק</string>
     <string name="pref_ui_icons_title">סמלי מצב</string>
     <string name="pref_refresh_title">קצב רענון</string>
-    <string name="pref_femto_action_summ">לאכוף מצב טיסה כאשר Femtocell מזוהה (הפעלה מחדש של הרשת באופן ידני)</string>
+    <string name="pref_femto_action_summ">לאכוף מצב טיסה כאשר Femtocell מזוהה (יש להפעיל את הרשת מחדש באופן ידני)</string>
     <string name="ocid_api_error">שגיאה בקבלת מפתח:</string>
     <string name="message_request_api_key">לחץ על אישור כדי לבקש מפתח API מ-OpenCellID.org. זה יאפשר לך להוריד את הנתונים שלהם ולהציג אותם במפה. זה גם יאפשר לך להעלות נתונים סלולריים. שים לב שאם לא תעלה נתונים סלולריים תוך 20 יום, מפתח ה-API שלך עלול להפוך ללא פעיל.</string>
     <string name="map_type_normal">רגיל</string>
     <string name="pref_refresh_manual">ידני</string>
     <string name="pref_refresh_automatic">אוטומטי</string>
+    <string name="help_settings_reset_db">פינוי ואיפוס כל הטבלאות או טבלאות מסוימות במסד הנתונים.</string>
+    <string name="help_app_add_get_ocid_api_key">קבלת מפתח API לשימוש במסד הנתונים OpenCellID כדי להעלות ולהוריד נתונים…</string>
 </resources>
