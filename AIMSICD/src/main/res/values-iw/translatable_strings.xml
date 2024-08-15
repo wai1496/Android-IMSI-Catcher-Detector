@@ -52,4 +52,10 @@
     <string name="app_version">גרסה: %s</string>
     <string name="upload_bts">שליחת נתוני BTS</string>
     <string name="git_sha">גיבוב SHA ב־Git‏: %s</string>
+    <string name="aimsicd_about_info3">פרויקט מבוסס אנדרואיד לזיהוי והימנעות מתחנות בסיס מזויפות (IMSI-Catchers) ברשתות GSM/UMTS.</string>
+    <string name="about_contribute">תרום</string>
+    <string name="about_github">AIMSICD ב GitHub</string>
+    <string name="about_wiki">תיעוד</string>
+    <string name="about_disclaimer">כתב ויתור</string>
+    <string name="about_releases">שחרורים</string>
 </resources>
