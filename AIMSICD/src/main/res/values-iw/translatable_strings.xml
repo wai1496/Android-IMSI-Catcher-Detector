@@ -155,15 +155,15 @@
     <string name="no_tracked_locations_found">לא נמצאו מקומות במעקב להצגה במפה.</string>
     <string name="error_retrieving_opencellid_data">שגיאה במשיכת נתוני OpenCellID.
 \nנא לבדוק שהרשת שלך תקינה!</string>
-    <string name="title_activity_advanced_user">מחיקת מסרון שזוהה</string>
+    <string name="title_activity_advanced_user">מחק מסרון שזוהה</string>
     <string name="adv_user_pref_header">הגדרות משתמש מתקדמות</string>
     <string name="adv_user_root_title">אפשר זיהוי SMS</string>
-    <string name="adv_user_pref_sms_launch">מחיקת מסרון</string>
+    <string name="adv_user_pref_sms_launch">מחק מסרון</string>
     <string name="unable_to_detect_busybox">לא ניתן לאתר Busybox במכשיר שלך.
 \nהזרקת פקודה AT מחייבת שרכיבי Busybox יפעלו כראוי.
 \nנא לבדוק אם במכשיר שלך מותקן Busybox ולנסות שוב.</string>
     <string name="adv_user_pref_sms_summary">מחק SMS שזוהה</string>
-    <string name="adv_user_pref_summary">הוספת ומחיקת מחרוזות הזיהוי</string>
+    <string name="adv_user_pref_summary">הוסף ומחק מחרוזות הזיהוי</string>
     <string name="adv_user_root_sum">גישת רוט נדרשת כדי לאפשר זיהוי SMS</string>
     <string name="typezero_title">שים לב!</string>
 </resources>
