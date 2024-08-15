@@ -58,4 +58,13 @@
     <string name="about_wiki">תיעוד</string>
     <string name="about_disclaimer">כתב ויתור</string>
     <string name="about_releases">שחרורים</string>
+    <string name="pref_system_title">הגדרות מערכת</string>
+    <string name="pref_autostart_title">הפעלה אוטומטית</string>
+    <string name="pref_autostart_summ">הפעל את השירות באופן אוטומטי באתחול</string>
+    <string name="pref_ocid_key_summ">הזן את מפתח ה-API של OpenCellID כאן</string>
+    <string name="pref_enable_cell_monitoring_title">ניטור תאים</string>
+    <string name="pref_enable_cell_monitoring_summ">הפעל ניטור תאים אוטומטי</string>
+    <string name="pref_request_ocid_key">בקש מפתח API של OpenCellID</string>
+    <string name="pref_ocid_requestkey_summary">בקש מפתח API עבור גישה לנתונים של OpenCellID</string>
+    <string name="about_license">רישיון</string>
 </resources>
