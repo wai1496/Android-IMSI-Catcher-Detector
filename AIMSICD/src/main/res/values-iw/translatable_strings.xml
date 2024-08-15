@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="map_view">מציג מפת אנטנה</string>
-    <string name="quit">צא</string>
+    <string name="map_view">מציג מפת אנטנות</string>
+    <string name="quit">יציאה</string>
     <string name="text_ok">אישור</string>
     <string name="text_cancel">ביטול</string>
     <string name="disclaimer_title">כתב ויתור</string>
-    <string name="clear_database">נקה/אפס מסד נתונים</string>
+    <string name="clear_database">ניקוי/איפוס מסד נתונים</string>
     <string name="clear_database_question">כל הנתונים יימחקו.
-\nאתה בטוח?</string>
+\nלהמשיך?</string>
     <string name="cell_lookup">כל פרטי התא הנוכחיים</string>
     <string name="db_viewer">מציג מסד נתונים</string>
-    <string name="text_disagree">איני מסכים</string>
-    <string name="text_agree">אני מסכים</string>
-    <string name="debugging">איתור באגים</string>
+    <string name="text_disagree">לא מקובל עליי</string>
+    <string name="text_agree">מקובל עליי</string>
+    <string name="debugging">איתור תקלות</string>
     <string name="preferences">העדפות</string>
     <string name="no_network_connection_title">אין חיבור לאינטרנט</string>
     <string name="disclaimer">על ידי השימוש ב-AIMSICD הבנתם והסכמתם ש-AIMSICD היא אפליקציית אנדרואיד נסיונית ואינפורמטיבית שיכולה להיכשל בזיהוי מעקב ומעקב מסיבות רבות. אתה גם מבין שאפשר לעקוף אותו או להביס אותו באמצעים אחרים, שעדיין לא מובנים למפתחים. לפיכך אתה גם מסכים ומבין שהמפתחים והחברות הקשורים למוצר החינמי הזה, לא יכולים בשום אופן להיות אחראים לכל תוצאות או תוצאה, בהתאם לשימוש באפליקציה זו. מדינת פיתוח: אלפא!</string>
-    <string name="press_once_again_to_exit">ליציאה, לחץ שוב.</string>
+    <string name="press_once_again_to_exit">ליציאה, נא ללחוץ שוב.</string>
 </resources>
