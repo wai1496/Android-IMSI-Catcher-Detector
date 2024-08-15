@@ -255,9 +255,10 @@
     <string name="pref_ocid_title">הגדרות OpenCellID</string>
     <string name="ocid_api_success">מפתח API חדש נשמר.</string>
     <string name="title_debug_logs">יומני ניפוי תקלות</string>
-    <string name="btn_stop_logs">עצור</string>
-    <string name="btn_start_logs">התחל</string>
-    <string name="msg_copied_to_clipboard">יומני הרישום הועתקו ללוח.</string>
+    <string name="btn_stop_logs">עצירה</string>
+    <string name="btn_start_logs">התחלה</string>
+    <string name="msg_copied_to_clipboard">היומנים הועתקו ללוח הגזירים.</string>
     <string name="btn_clear_logs">פינוי</string>
     <string name="btn_copy_to_clipboard">העתקה</string>
+    <string name="status_idle_detail_info">היישומון מושבב או בטעינה. הגנה ואיתור אינן פעילות. נא להפעיל זיהוי.</string>
 </resources>
