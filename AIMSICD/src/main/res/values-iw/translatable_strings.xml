@@ -165,7 +165,7 @@
     <string name="adv_user_pref_sms_summary">מחק מסרון שזוהה</string>
     <string name="adv_user_pref_summary">הוסף ומחק מחרוזות הזיהוי</string>
     <string name="adv_user_root_sum">נדרשת גישת על (root) כדי להפעיל זיהוי מסרונים</string>
-    <string name="typezero_title">שים לב!</string>
+    <string name="typezero_title">חשוב לשים לב!</string>
     <string name="detection_strings">מחרוזות זיהוי</string>
     <string name="status_skull">הרץ!</string>
     <string name="status_ok">אישור</string>
@@ -174,4 +174,16 @@
     <string name="help_app_download_local_bts">מוריד את מסד הנתונים של OpenCellID.</string>
     <string name="help_app_import_cell_towers">מייבא את מסד הנתונים של CellTowers.</string>
     <string name="help_app_upload_local_bts">מעלה את ה-BTS שלך למסד הנתונים של OpenCellID.</string>
+    <string name="typezero_header">התגלה מסרון שקט</string>
+    <string name="typewap_data">זוהתה הודעת מסרון דחיפת WAP!
+\nלפרטים: נא לפנות למציג מסד הנתונים.</string>
+    <string name="help_main_neighboring_cells">הצגת התאים השכנים.</string>
+    <string name="typezero_data">זוהתה הודעת סוג-0!
+\nלפרטים: ניתן לגשת למציג מסד הנתונים.</string>
+    <string name="typemwi_title">חשוב לשים לב!</string>
+    <string name="typemwi_header">זוהה MWI</string>
+    <string name="typemwi_data">זוהה מחוון הודעה ממתינה!
+\nלפרטים: נא לפנות למציג מסד הנתונים.</string>
+    <string name="typewap_header">זוהתה דחיפת WAP</string>
+    <string name="help_main_phone_sim_details">פרטי ספק רשת SIM,‏ IMEI,‏ TMSI.</string>
 </resources>
