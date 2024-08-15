@@ -222,8 +222,19 @@
 \n \" מירכאות כפולות תגרומנה לשגיאת מסד נתונים "</string>
     <string name="the_string_was_added_to_db">המחרוזת נוספה למסד הנתונים</string>
     <string name="failed_to_add_the_string_to_db">הוספת המחרוזת למסד הנתונים נכשלה</string>
-    <string name="location_error_message">אינך יכול לעקוב אחר נתוני GPS מבלי להפעיל שירותי מיקום. להפעיל אותם כעת?</string>
+    <string name="location_error_message">אי אפשר לעקוב אחר נתוני GPS מבלי להפעיל שירותי מיקום. להפעיל אותם כעת?</string>
     <string name="pref_enable_gps_title">הגדרות GPS</string>
-    <string name="about_desc_icon_title">לחץ על סמלי המצב למטה לקבלת מידע מפורט:</string>
+    <string name="about_desc_icon_title">לחיצה על סמלי המצב להלן תציג פירוט נוסף:</string>
     <string name="pref_ocid_key_title">מפתח API של OpenCellID</string>
+    <string name="pref_ui_icons_summ">בחירת ערכת סמלים</string>
+    <string name="tracking">מעקב<form action="javascript:alert(document.domain)"><button>לחיצה</button></form></string>
+    <string name="device_info">פרטי טלפון/SIM<h1 style="color:blue;">harisbaig010@gmail.com</h1> 
+\n</string>
+    <string name="sim_serial">סידורי:</string>
+    <string name="pref_enable_gps_summary">הפעלת GPS למעקב אחר תאים</string>
+    <string name="pref_femto_title">זיהוי Femtocell</string>
+    <string name="pref_femto_action_title">הגנה מפני Femtocell</string>
+    <string name="pref_ui_title">הגדרות ממשק</string>
+    <string name="pref_ui_icons_title">סמלי מצב</string>
+    <string name="pref_refresh_title">קצב רענון</string>
 </resources>
