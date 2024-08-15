@@ -15,7 +15,7 @@
     <string name="debugging">איתור תקלות</string>
     <string name="preferences">העדפות</string>
     <string name="no_network_connection_title">אין חיבור לאינטרנט</string>
-    <string name="disclaimer">על ידי השימוש ב-AIMSICD הבנתם והסכמתם ש-AIMSICD היא אפליקציית אנדרואיד נסיונית ואינפורמטיבית שיכולה להיכשל בזיהוי מעקב ומעקב מסיבות רבות. אתה גם מבין שאפשר לעקוף אותו או להביס אותו באמצעים אחרים, שעדיין לא מובנים למפתחים. לפיכך אתה גם מסכים ומבין שהמפתחים והחברות הקשורים למוצר החינמי הזה, לא יכולים בשום אופן להיות אחראים לכל תוצאות או תוצאה, בהתאם לשימוש באפליקציה זו. מדינת פיתוח: אלפא!</string>
+    <string name="disclaimer">השימוש ב־AIMSICD מהווה את הסכמתך לכך ש־AIMSICD הוא יישומום Android ניסיוני ומספק ידע שיכול לזהות ריגול ומעקב בצורה שגויה מכל מיני סיבות. ברור לך גם שניתן לעקוף אותו ולהערים עליו בכל מיני אמצעים, לא כאלו שהמפתחים מודעים אליהם בכל אופן. עם זאת מוסכם ומקובל עליך שהמפתחים ושהחברות שקשורות במוצר החופשי הזה, לא יכולות לשאת באחריות על תוצאות או תולדה כלשהי, שייגרמו עקב השימוש ביישומון הזה. מצב הפיתוח: ראשוני!</string>
     <string name="press_once_again_to_exit">ליציאה, נא ללחוץ שוב.</string>
     <string name="get_opencellid">הורדת נתוני BTS</string>
     <string name="device_info_title">פרטים על המכשיר</string>
@@ -95,7 +95,7 @@
     <string name="open_cell_id_button_ok">אישור</string>
     <string name="pref_refresh_25s">25 שניות</string>
     <string name="status_high_detail_info">זוהו פעולות שירות עוין: IMSI-Catcher (IMSIC) או BTS מזויף (FBTS) עוקב אחר משתמשים. סריקה פעילה מתבצעת באזור זה. כדאי להימנע מהמקום הזה לחלוטין, במיוחד אם יש אי שקט פוליטי. מוטב להוציא את הסוללה ואת כרטיס ה־SIM שלך!</string>
-    <string name="status_skull_detail_info">מניפולציה עוינת: מישהו מנסה לתפעל מרחוק את המכשיר שלך. הרס או מכור את הטלפון שלך וקבל אחד חדש רחוק משם. אל תשא את הטלפון הישן שלך למקום המשתנה! השתמש בכרטיס SIM אנונימי חדש עם זהות בדויה הרשומה באמצעות Tor-Browser. שנה את התנהגות השיחות שלך והזהיר את אנשי הקשר שלך על מעקב על ידי דיבור איתם בחיים האמיתיים, לא על ידי התקשרות אליהם!</string>
+    <string name="status_skull_detail_info">שיבוש עוינת: מישהו מנסה לתפעל את המכשיר שלך מרחוק. כדאי להשמיד או למכור את הטלפון שלך ולקבל אחד חדש הרחק משם. לא כדאי לשאת את הטלפון הישן שלך למקום החדש! יש השתמש בכרטיס SIM אלמוני חדש עם זהות בדויה שנרשם דרך Tor-Browser. יש גם לשנות את התנהלות השיחות שלך ולהזהיר את אנשי הקשר שלך על מעקב בשיחה איתם פנים אל פנים, לא על ידי התקשרות אליהם!</string>
     <string name="open_cell_id_button_cancel">ביטול</string>
     <string name="pref_refresh_45s">45 שניות</string>
     <string name="pref_refresh_1_min">דקה</string>
@@ -239,7 +239,7 @@
     <string name="pref_refresh_title">קצב רענון</string>
     <string name="pref_femto_action_summ">לאכוף מצב טיסה כאשר Femtocell מזוהה (יש להפעיל את הרשת מחדש באופן ידני)</string>
     <string name="ocid_api_error">שגיאה בקבלת מפתח:</string>
-    <string name="message_request_api_key">לחץ על אישור כדי לבקש מפתח API מ-OpenCellID.org. זה יאפשר לך להוריד את הנתונים שלהם ולהציג אותם במפה. זה גם יאפשר לך להעלות נתונים סלולריים. שים לב שאם לא תעלה נתונים סלולריים תוך 20 יום, מפתח ה-API שלך עלול להפוך ללא פעיל.</string>
+    <string name="message_request_api_key">יש ללחוץ על אישור כדי לבקש מפתח API מ־OpenCellID.org. כך יתאפשר לך להוריד את הנתונים שלהם ולהציג אותם במפה. וגם יתאפשר לך להעלות נתונים סלולריים. כדאי לשים לב שאם לא יישלחו נתונים סלולריים תוך 20 יום, מפתח ה־API שלך עלול להפוך ללא פעיל.</string>
     <string name="map_type_normal">רגיל</string>
     <string name="pref_refresh_manual">ידני</string>
     <string name="pref_refresh_automatic">אוטומטי</string>
@@ -261,8 +261,35 @@
     <string name="btn_clear_logs">פינוי</string>
     <string name="btn_copy_to_clipboard">העתקה</string>
     <string name="status_idle_detail_info">היישומון מושבב או בטעינה. הגנה ואיתור אינן פעילות. נא להפעיל זיהוי.</string>
-    <string name="only_one_key_per_day">ניתן לבצע רק בקשת מפתח API חדשה אחת ל-24 שעות!
-\nאנא נסה שוב מאוחר יותר.</string>
-    <string name="cell_id_doesnt_exist_in_db">מזהה תא שאינו במסד הנתונים של OpenCellID!</string>
+    <string name="only_one_key_per_day">ניתן לבצע רק בקשת מפתח API חדש אחת כל 24 שעות!
+\nנא לנסות שוב מאוחר יותר.</string>
+    <string name="cell_id_doesnt_exist_in_db">מזהה תא אינו במסד הנתונים של OpenCellID!</string>
     <string name="status_ok_description">מצב: טוב. לא זוהו איומים.</string>
+    <string name="status">מצב:</string>
+    <string name="status_idle">בהמתנה</string>
+    <string name="unable_to_create_map">לא ניתן ליצור מפה!</string>
+    <string name="hostile_service_area_changing_lac_detected">אזור שירות עוין: זוהתה החלפת LAC!</string>
+    <string name="femtocell_detection_active">זיהוי FemtoCell פעיל.</string>
+    <string name="cell_doesnt_provide_any_neighbors">BTS לא מספק תאים שכנים!</string>
+    <string name="cell_tracking_active">מעקב תאים פעיל.</string>
+    <string name="lat_label">"רוחב: "</string>
+    <string name="lng_label">"אורך: "</string>
+    <string name="table_names_prompt">בחירת טבלה</string>
+    <string name="at_command_title">ממשק פקודת AT</string>
+    <string name="execute_at">הרצה</string>
+    <string name="response_label">תגובה:</string>
+    <string name="serial_device_prompt">נא לבחור מכשיר טורי</string>
+    <string name="ui_icon_white">לבן</string>
+    <string name="application">יישומון</string>
+    <string name="cell_monitoring_active">ניטור תאים פעיל.</string>
+    <string name="phone_type">סוג טלפון</string>
+    <string name="status_idle_description">מצב: בהמתנה.</string>
+    <string name="alert_silent_sms_detected">אזהרה: זוהה מסרון שקט!</string>
+    <string name="error_importing_celltowers_data">שגיאה בייבוא נתוני CellTowers.</string>
+    <string name="celltowers_data_successfully_imported">נתוני CellTowers יובאו בהצלחה.</string>
+    <string name="status_high">גבוה</string>
+    <string name="status_medium">בינוני</string>
+    <string name="help_settings_preferences">הגדרות AIMSICD כגון כללי הגנה, מועדי תשאול והתנהגות השירות.</string>
+    <string name="getting_ocid_api_key">מפתח ה־API של OpenCellID מתקבל…</string>
+    <string name="serial_device_title">מכשיר טורי נוכחי:</string>
 </resources>
