@@ -91,10 +91,10 @@
     <string name="pref_map_title">העדפות מציג מפה</string>
     <string name="lac_label">LAC:</string>
     <string name="pref_map_type_title">סוג מפה</string>
-    <string name="status_danger_detail_info">זוהה מעקב עוין: FBTS או IMSIC עוקבים אחריך באופן פעיל ומונעים מהטלפון שלך להתחבר דרך ספק הסלולר המוצפן הרגיל שלך. אם אתה בסכנה או בהשלכות, הרס את הטלפון וה-SIM שלך, ולאחר מכן דווח עליהם כגנוב לאחרונה.</string>
+    <string name="status_danger_detail_info">זוהה מעקב עוין: FBTS או IMSIC עוקבים אחריך באופן פעיל ומונעים מהטלפון שלך להתחבר דרך ספק הסלולר המוצפן הרגיל שלך. אם צפויה לך סכנה או השלכות כלשהן, מוטב להשמיד את הטלפון ואת ה־SIM שלך, ולאחר מכן לדווח על גניבתם ממש לאחרונה.</string>
     <string name="open_cell_id_button_ok">אישור</string>
     <string name="pref_refresh_25s">25 שניות</string>
-    <string name="status_high_detail_info">זוהו פעולות שירות עוין: IMSI-Catcher (IMSIC) או BTS מזויף (FBTS) עוקב אחר משתמשים. סריקה פעילה מתבצעת באזור זה. כדאי להימנע מהמקום הזה בכל האמצעים, במיוחד אם יש אי שקט פוליטי. הוצא את הסוללה וכרטיס ה-SIM שלך!</string>
+    <string name="status_high_detail_info">זוהו פעולות שירות עוין: IMSI-Catcher (IMSIC) או BTS מזויף (FBTS) עוקב אחר משתמשים. סריקה פעילה מתבצעת באזור זה. כדאי להימנע מהמקום הזה לחלוטין, במיוחד אם יש אי שקט פוליטי. מוטב להוציא את הסוללה ואת כרטיס ה־SIM שלך!</string>
     <string name="status_skull_detail_info">מניפולציה עוינת: מישהו מנסה לתפעל מרחוק את המכשיר שלך. הרס או מכור את הטלפון שלך וקבל אחד חדש רחוק משם. אל תשא את הטלפון הישן שלך למקום המשתנה! השתמש בכרטיס SIM אנונימי חדש עם זהות בדויה הרשומה באמצעות Tor-Browser. שנה את התנהגות השיחות שלך והזהיר את אנשי הקשר שלך על מעקב על ידי דיבור איתם בחיים האמיתיים, לא על ידי התקשרות אליהם!</string>
     <string name="open_cell_id_button_cancel">ביטול</string>
     <string name="pref_refresh_45s">45 שניות</string>
