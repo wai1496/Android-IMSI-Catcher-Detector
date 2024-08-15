@@ -139,4 +139,11 @@
     <string name="tracking_cell_information">עוקב אחר מידע סלולרי.</string>
     <string name="stopped_tracking_cell_information">הפסיק לעקוב אחר מידע סלולרי.</string>
     <string name="stopped_tracking_femtocell">: הפסיק לעקוב אחר חיבורי FemtoCell.</string>
+    <string name="refreshing_every">מרענן כל</string>
+    <string name="refreshing_now">מרענן כעת…</string>
+    <string name="seconds">שניות.</string>
+    <string name="contacting_opencellid_for_data">יוצר קשר עם OpenCellID לקבלת נתונים...
+\nפעולה זו עשויה להימשך עד דקה.</string>
+    <string name="unable_to_determine_last_location">לא ניתן לקבוע את מיקומך האחרון.
+\nהפעל את שירותי המיקום ונסה שוב.</string>
 </resources>
