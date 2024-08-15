@@ -98,11 +98,11 @@
     <string name="status_skull_detail_info">מניפולציה עוינת: מישהו מנסה לתפעל מרחוק את המכשיר שלך. הרס או מכור את הטלפון שלך וקבל אחד חדש רחוק משם. אל תשא את הטלפון הישן שלך למקום המשתנה! השתמש בכרטיס SIM אנונימי חדש עם זהות בדויה הרשומה באמצעות Tor-Browser. שנה את התנהגות השיחות שלך והזהיר את אנשי הקשר שלך על מעקב על ידי דיבור איתם בחיים האמיתיים, לא על ידי התקשרות אליהם!</string>
     <string name="open_cell_id_button_cancel">ביטול</string>
     <string name="pref_refresh_45s">45 שניות</string>
-    <string name="pref_refresh_1_min">1 דקה</string>
+    <string name="pref_refresh_1_min">דקה</string>
     <string name="pref_refresh_5_min">5 דקות</string>
-    <string name="pref_notification_vibrate_enable_title">אפשר רטט</string>
-    <string name="pref_notification_vibrate_enable_summary">רטט כאשר ההתראה משתנה</string>
-    <string name="pref_notification_vibrate_min_level_summary">בחר רמת איום מינימלית לרטט</string>
+    <string name="pref_notification_vibrate_enable_title">לאפשר רטט</string>
+    <string name="pref_notification_vibrate_enable_summary">לרטוט כאשר ההתראה משתנה</string>
+    <string name="pref_notification_vibrate_min_level_summary">נא לבחור רמת איום מזערית לרטט</string>
     <string name="notification_vibrate_ok">אישור</string>
     <string name="notification_vibrate_medium">בינוני</string>
     <string name="notification_vibrate_danger">סכנה</string>
@@ -135,15 +135,24 @@
     <string name="title_ocid_key">מפתח API של OpenCellID</string>
     <string name="service_state_changed">מצב השירות השתנה!</string>
     <string name="femtocell_only_on_cdma_devices">AIMSICD יכול לזהות חיבורי FemtoCell רק בהתקני CDMA.</string>
-    <string name="alert_femtocell_tracking_detected">התראה: זוהה מעקב FemtoCell!</string>
+    <string name="alert_femtocell_tracking_detected">אזהרה: זוהה מעקב FemtoCell!</string>
     <string name="tracking_cell_information">במעקב אחר פרטים סלולריים.</string>
     <string name="stopped_tracking_cell_information">הופסק מעקב אחר פרטים סלולריים.</string>
-    <string name="stopped_tracking_femtocell">: הפסיק לעקוב אחר חיבורי FemtoCell.</string>
-    <string name="refreshing_every">מרענן כל</string>
-    <string name="refreshing_now">מרענן כעת…</string>
+    <string name="stopped_tracking_femtocell">: הופסק מעקב אחר חיבורי FemtoCell.</string>
+    <string name="refreshing_every">לרענן כל</string>
+    <string name="refreshing_now">מתרענן כעת…</string>
     <string name="seconds">שניות.</string>
-    <string name="contacting_opencellid_for_data">יוצר קשר עם OpenCellID לקבלת נתונים...
+    <string name="contacting_opencellid_for_data">נוצר קשר עם OpenCellID לקבלת נתונים…
 \nפעולה זו עשויה להימשך עד דקה.</string>
-    <string name="unable_to_determine_last_location">לא ניתן לקבוע את מיקומך האחרון.
-\nהפעל את שירותי המיקום ונסה שוב.</string>
+    <string name="unable_to_determine_last_location">לא ניתן לקבוע את מקומך האחרון.
+\nנא להפעיל את שירותי המיקום ולנסות שוב.</string>
+    <string name="no_data_for_publishing">אין פרטים זמינים לפרסום.</string>
+    <string name="download_error">שגיאת הורדה:</string>
+    <string name="download_timed_out">הזמן להמתנה לתגובה לבקשה מול OpenCellID הסתיים. לנסות שוב בהמשך?</string>
+    <string name="opencellid_data_successfully_received">נתוני OpenCellID התקבלו בהצלחה.</string>
+    <string name="notification_vibrate_idle">בהמתנה</string>
+    <string name="pref_notification_vibrate_min_level_title">לרטוט ברמת איום</string>
+    <string name="no_tracked_locations_found">לא נמצאו מקומות במעקב להצגה במפה.</string>
+    <string name="error_retrieving_opencellid_data">שגיאה במשיכת נתוני OpenCellID.
+\nנא לבדוק שהרשת שלך תקינה!</string>
 </resources>
