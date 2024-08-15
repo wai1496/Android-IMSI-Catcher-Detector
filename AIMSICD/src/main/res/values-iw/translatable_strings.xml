@@ -157,14 +157,21 @@
 \nנא לבדוק שהרשת שלך תקינה!</string>
     <string name="title_activity_advanced_user">מחק מסרון שזוהה</string>
     <string name="adv_user_pref_header">הגדרות משתמש מתקדמות</string>
-    <string name="adv_user_root_title">הפעלת זיהוי מסרונים</string>
+    <string name="adv_user_root_title">הפעל זיהוי מסרונים</string>
     <string name="adv_user_pref_sms_launch">מחק מסרון</string>
     <string name="unable_to_detect_busybox">לא ניתן לאתר Busybox במכשיר שלך.
 \nהזרקת פקודה AT מחייבת שרכיבי Busybox יפעלו כראוי.
 \nנא לבדוק אם במכשיר שלך מותקן Busybox ולנסות שוב.</string>
-    <string name="adv_user_pref_sms_summary">מחיקת מסרון שזוהה</string>
+    <string name="adv_user_pref_sms_summary">מחק מסרון שזוהה</string>
     <string name="adv_user_pref_summary">הוסף ומחק מחרוזות הזיהוי</string>
     <string name="adv_user_root_sum">נדרשת גישת על (root) כדי להפעיל זיהוי מסרונים</string>
     <string name="typezero_title">שים לב!</string>
     <string name="detection_strings">מחרוזות זיהוי</string>
+    <string name="status_skull">הרץ!</string>
+    <string name="status_ok">אישור</string>
+    <string name="status_danger">סכנה</string>
+    <string name="help_app_about">הסבר על סמלי מצב ופרויקט.</string>
+    <string name="help_app_download_local_bts">מוריד את מסד הנתונים של OpenCellID.</string>
+    <string name="help_app_import_cell_towers">מייבא את מסד הנתונים של CellTowers.</string>
+    <string name="help_app_upload_local_bts">מעלה את ה-BTS שלך למסד הנתונים של OpenCellID.</string>
 </resources>
