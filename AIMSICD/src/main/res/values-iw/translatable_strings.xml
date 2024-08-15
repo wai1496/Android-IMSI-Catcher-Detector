@@ -254,4 +254,5 @@
 \nבחירה נוכחית: %s</string>
     <string name="pref_ocid_title">הגדרות OpenCellID</string>
     <string name="ocid_api_success">מפתח API חדש נשמר.</string>
+    <string name="title_debug_logs">יומני ניפוי באגים</string>
 </resources>
