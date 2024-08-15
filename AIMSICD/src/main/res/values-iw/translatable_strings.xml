@@ -164,4 +164,6 @@
 \nנא לבדוק אם במכשיר שלך מותקן Busybox ולנסות שוב.</string>
     <string name="adv_user_pref_sms_summary">מחק SMS שזוהה</string>
     <string name="adv_user_pref_summary">הוספת ומחיקת מחרוזות הזיהוי</string>
+    <string name="adv_user_root_sum">גישת רוט נדרשת כדי לאפשר זיהוי SMS</string>
+    <string name="typezero_title">שים לב!</string>
 </resources>
