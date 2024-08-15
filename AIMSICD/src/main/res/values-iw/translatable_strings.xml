@@ -35,4 +35,21 @@
     <string name="neighboring_cells_num_title">סך הכול:</string>
     <string name="device_version">גרסת RIL:</string>
     <string name="network_name">שם ספק:</string>
+    <string name="network_lte_timing_advance">TA (LTE):</string>
+    <string name="network_code">קוד ספק:</string>
+    <string name="data_activity">פעילות נתונים:</string>
+    <string name="network_roaming">נדידה:</string>
+    <string name="button_refresh">רענון</string>
+    <string name="data_status">מצב נתונים:</string>
+    <string name="network_type">סוג:</string>
+    <string name="network_lac">LAC:</string>
+    <string name="network_cellid">CID (מזהה תא):</string>
+    <string name="network_psc">PSC:</string>
+    <string name="buildnumber">מס׳ בנייה: %s</string>
+    <string name="drawer_open">פתיחת מגירת ניווט</string>
+    <string name="drawer_close">סגירת מגירת ניווט</string>
+    <string name="about_aimsicd">על AIMSICD</string>
+    <string name="app_version">גרסה: %s</string>
+    <string name="upload_bts">שליחת נתוני BTS</string>
+    <string name="git_sha">גיבוב SHA ב־Git‏: %s</string>
 </resources>
