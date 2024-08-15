@@ -292,4 +292,6 @@
     <string name="help_settings_preferences">הגדרות AIMSICD כגון כללי הגנה, מועדי תשאול והתנהגות השירות.</string>
     <string name="getting_ocid_api_key">מפתח ה־API של OpenCellID מתקבל…</string>
     <string name="serial_device_title">מכשיר טורי נוכחי:</string>
+    <string name="alert_threat_detected">התראה: זוהה איום כלשהו!</string>
+    <string name="alert_femtocell_connection_detected">התראה: זוהה חיבור FemtoCell!</string>
 </resources>
