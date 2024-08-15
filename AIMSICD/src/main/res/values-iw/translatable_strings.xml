@@ -25,4 +25,12 @@
     <string name="neighboring_cells_title">תאים שכנים</string>
     <string name="no_network_connection_message">לא ניתן להוריד נתוני OpenCellID ללא חיבור לאינטרנט, אנא הפעל חיבור נתונים!</string>
     <string name="import_cell_towers">ייבא נתוני CellTowers</string>
+    <string name="sim_imsi">IMSI:</string>
+    <string name="device_type">סוג טלפון:</string>
+    <string name="device_imei">IMEI:</string>
+    <string name="sim_country">מדינה:</string>
+    <string name="ciphering_indicator_title">מחוון הצפנה</string>
+    <string name="sim_operator_id">מזהה מפעיל:</string>
+    <string name="sim_operator_name">שם מפעיל:</string>
+    <string name="neighboring_cells_num_title">הכל:</string>
 </resources>
