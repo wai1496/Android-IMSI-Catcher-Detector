@@ -294,4 +294,13 @@
     <string name="serial_device_title">מכשיר טורי נוכחי:</string>
     <string name="alert_threat_detected">התראה: זוהה איום כלשהו!</string>
     <string name="alert_femtocell_connection_detected">התראה: זוהה חיבור FemtoCell!</string>
+    <string name="ui_icon_flat">משטח</string>
+    <string name="map_type_terrain">תוואי שטח</string>
+    <string name="uploaded_bts_data_successfully">נתוני ה־BTS נשלחו ל־OpenCellID בהצלחה.</string>
+    <string name="no_opencellid_key_detected">לא זוהה מפתח API של OpenCellID!
+\nנא למלא קודם את המפתח שלך בהגדרות.</string>
+    <string name="imporing_celltowers_data">נתוני CellTowers מיובאים…
+\nעלול לקחת קצת זמן.</string>
+    <string name="unknown_error_trying_to_acquire_serial_device">אירעה שגיאה בלתי ידועה בניסיון לתפוס את ההתקן הטורי באופן בלעדי.
+\nנא לבדוק ב־logcat (יומן השגיאות של Android) אם יש שגיאות ולפרסם אותן ב־GitHub שלנו.</string>
 </resources>
