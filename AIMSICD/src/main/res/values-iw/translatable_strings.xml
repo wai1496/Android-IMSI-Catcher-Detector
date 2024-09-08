@@ -15,7 +15,7 @@
     <string name="debugging">איתור תקלות</string>
     <string name="preferences">העדפות</string>
     <string name="no_network_connection_title">אין חיבור לאינטרנט</string>
-    <string name="disclaimer">השימוש ב־AIMSICD מהווה את הסכמתך לכך ש־AIMSICD הוא יישומום Android ניסיוני ומספק ידע שיכול לזהות ריגול ומעקב בצורה שגויה מכל מיני סיבות. ברור לך גם שניתן לעקוף אותו ולהערים עליו בכל מיני אמצעים, לא כאלו שהמפתחים מודעים אליהם בכל אופן. עם זאת מוסכם ומקובל עליך שהמפתחים ושהחברות שקשורות במוצר החופשי הזה, לא יכולות לשאת באחריות על תוצאות או תולדה כלשהי, שייגרמו עקב השימוש ביישומון הזה. מצב הפיתוח: ראשוני!</string>
+    <string name="disclaimer">השימוש ב־AIMSICD מהווה את הסכמתך לכך ש־AIMSICD הוא יישומון Android ניסיוני ומספק ידע שיכול לזהות ריגול ומעקב בצורה שגויה מכל מיני סיבות. ברור לך גם שניתן לעקוף אותו ולהערים עליו בכל מיני אמצעים, לא כאלו שהמפתחים מודעים אליהם בכל אופן. עם זאת מוסכם ומקובל עליך שהמפתחים ושהחברות שקשורות במוצר החופשי הזה, לא יכולות לשאת באחריות על תוצאות או תולדה כלשהי, שייגרמו עקב השימוש ביישומון הזה. מצב הפיתוח: ראשוני!</string>
     <string name="press_once_again_to_exit">ליציאה, נא ללחוץ שוב.</string>
     <string name="get_opencellid">הורדת נתוני BTS</string>
     <string name="device_info_title">פרטים על המכשיר</string>
@@ -303,4 +303,19 @@
 \nעלול לקחת קצת זמן.</string>
     <string name="unknown_error_trying_to_acquire_serial_device">אירעה שגיאה בלתי ידועה בניסיון לתפוס את ההתקן הטורי באופן בלעדי.
 \nנא לבדוק ב־logcat (יומן השגיאות של Android) אם יש שגיאות ולפרסם אותן ב־GitHub שלנו.</string>
+    <string name="ui_icon_sense">תחושה</string>
+    <string name="alert_mwi_detected">אזהרה: זוהה מחוון הודעה ממתינה!</string>
+    <string name="alert_silent_wap_sms_detected">אזהרה: זוהה מסרון דחיפת WAP!</string>
+    <string name="opencellid_data_successfully_received_markers_updated">הנתונים של OpenCellID התקבלו בהצלחה.
+\nסמני המפה עודכנו.</string>
+    <string name="error_uploading_bts_data">שגיאה בהעלאת נתוני BTS לשרתי OpenCellID!</string>
+    <string name="refreshed_cell_id_info">פרטי CellId (מזהה אנטנה) התרעננו</string>
+    <string name="unknown_error_initialising_at_command_injector">שגיאה בלתי צפויה התרחשה בעת הניסיון לאתחל את מזריק פקודות ה־AT.
+\nנא לבדוק את ה־logcat שלך ולחפש בו שגיאות ולפרסם אותן ב־GitHub שלנו.</string>
+    <string name="describe_the_problem_you_had">לתשומת ליבך! נא לתאר את הבעיה שחווית בטרם שליחת היומנים האלה. לא תינתן עזרה בלי תיאורים!
+\n</string>
+    <string name="adv_user_sms_info">התפריט הזה הוא למשתמשים מתקדמים בלבד!
+\nכדי למחוק מסרון שזוהה יש ללחוץ עליו לחיצה ארוכה בתצוגת הרשימה.</string>
+    <string name="adv_user_pref_launch">מחרוזות זיהוי</string>
+    <string name="help_tracking_toggle_cell_tracking">יש להפעיל כדי לעקוב אחר אנטנות במציג מפת האנטנות ואפשר גם מאוחר יותר להעלות ל־OpenCellID.</string>
 </resources>
