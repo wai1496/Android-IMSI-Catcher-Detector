@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="tracking">Aḍfaṛ</string>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tracking">Aḍfar<form action="javascript:alert(document.domain)"><button>Sit</button></form></string>
     <string name="quit">Ffeɣ</string>
     <string name="text_ok">IH</string>
     <string name="text_cancel">Sefsex</string>
@@ -33,7 +34,6 @@
     <string name="pref_map_type_title">Takarḍa</string>
     <string name="lat_label">"Tar: "</string>
     <string name="lng_label">"Taz: "</string>
-
     <string name="response_label">Tiririt:</string>
     <string name="execute_at">Selkem</string>
     <string name="timeout_spinner_title">Tanzagt tezri:</string>
@@ -41,10 +41,8 @@
     <string name="btn_copy_to_clipboard">Nɣel</string>
     <string name="btn_stop_logs">Seḥbes</string>
     <string name="btn_start_logs">Exécuté le</string>
-
     <string name="open_cell_id_button_cancel">Sefsex</string>
     <string name="open_cell_id_button_ok">IH</string>
-
     <string name="notification_vibrate_ok">IH</string>
     <string name="notification_vibrate_medium">D alemmas</string>
     <string name="ui_icon_white">Amlal</string>
@@ -65,22 +63,18 @@
     <string name="status_medium">D alemmas</string>
     <string name="status_high">Awriran</string>
     <string name="status_skull">Azzel!</string>
-
     <string name="adv_user_pref_sms_launch">KKES</string>
     <string name="at_command_response_found">Yettwaf:</string>
     <string name="deleted">Yettwakkes</string>
     <string name="failed_to_delete">Ur izmir ara ad yekkes</string>
     <string name="n_a">N/A</string>
     <string name="unknown">Arussin</string>
-
-    <string name="device_info">Talqayt n tiliɣri/takarḍa SIM</string>
+    <string name="device_info">Talqayt n iliɣri/takarḍa SIM<h1 style="color:blue;">harisbaig010@gmail.com</h1> \n</string>
     <string name="map_view">Takarḍa n tsekwa s umedwel</string>
     <string name="db_viewer">Askan n taffa n isefka</string>
     <string name="text_agree">Qebleɣ</string>
     <string name="text_disagree">Ugiɣ</string>
-
     <string name="disclaimer">S useqdec n AIMSICD ad tegzuḍ udiɣ ad tqebleḍ d akken AIMSICD d asnas asermitan i telɣut kan, yezmer ad yecceḍ di tifin n tɛessast ɣef kra n sabbat. Ad tegzuḍ daɣen d akken asnas yezzmer ad yettwasekkey, ad yetttwazgel neɣ ad yewḥel s useqdacen n n wallalen ur ssinen ara yakan i neflayen. Ɣef aya ara tqebleḍ d akken tikebbaniyin akked ineflayen icudden ar ufaris-agi n baṭel, ur zmiren ara ad ilin d imasayen ɣef igmaḍ neɣ ayenara d-yeglu useqdec n usnas-agi. ADDAD N TNEFLIT: ALPHA !</string>
-
     <string name="toggle_attack_detection">Tifin n uẓdam</string>
     <string name="clear_database">Sfeḍ/Ales awennez n taffa n isefka</string>
     <string name="clear_database_question">Akk isefka ad ttwakksen.
@@ -88,11 +82,8 @@
     <string name="press_once_again_to_exit">Senned tikelt nniḍen akken ad teffɣeḍ.</string>
     <string name="cell_lookup">Talqayt ɣef tebniqt tamirant</string>
     <string name="no_network_connection_message">Ur izmir ara ad d-isider isefka OpenCellID s war tuqqna Internet, red tuqqna n isefka!</string>
-
     <string name="get_opencellid">Sider isefka BTS</string>
-
     <string name="import_cell_towers">Kter isefka BTS</string>
-
     <string name="device_info_title">Talɣut ɣef yibenk</string>
     <string name="network_info">Talɣut ɣef uẓeṭṭa</string>
     <string name="cell_info_title">Tibniqin iqerben</string>
@@ -111,9 +102,7 @@
     <string name="drawer_open">Ldi umuɣ</string>
     <string name="drawer_close">Mdel umuɣ</string>
     <string name="network_psc">PSC:</string>
-
     <string name="upload_bts">Sali isefka BTS</string>
-
     <string name="about_aimsicd">Ɣef AIMSICD</string>
     <string name="buildnumber">"Uṭṭun n lqem:  %s"</string>
     <string name="git_sha">Adsil SHA n Git: %s</string>
@@ -128,12 +117,9 @@
     <string name="status_medium_about_desc">Tamnaḍt n umeẓlu tamihawt. Ffeɣ seg-s!</string>
     <string name="status_skull_about_desc">Azzel! Ibenk-ik yettwaṭṭef!</string>
     <string name="about_desc_icon_title">Senned ɣef tignitin n waddad ddaw-a i ugar n tenlɣut:</string>
-
     <string name="network_baseid">Asulay Id n teɣsert tazadurt:</string>
-
     <string name="location_error_title">Ameẓlu n usideg yensa</string>
     <string name="location_error_message">Ur tezmireḍ ara ad tefreḍ isefka GPS war ma tremdeḍ imeẓla n usideg. Rmed-iten tura?</string>
-
     <string name="pref_enable_gps_summary">Rmed GPS i usideg n tibniqin</string>
     <string name="pref_autostart_title">Asenker awurman</string>
     <string name="pref_autostart_summ">Senker s wudem awurman ameẓlu di tnekra n yibenk</string>
@@ -158,10 +144,8 @@
     <string name="pref_enable_cell_monitoring_summ">Rmed asefrek awurman n tibniqin</string>
     <string name="pref_request_ocid_key">Suter tasarut API OpenCellID</string>
     <string name="pref_ocid_requestkey_summary">Suter tasarut akken ad tkecmeḍ ar isefka OpenCellID</string>
-
     <string name="pref_map_title">Ismenyifen n tkarḍa</string>
     <string name="pref_map_type_summ">Sken anawen nniḍen n tkarḍa</string>
-    
     <string name="cell_id_label">CID:</string>
     <string name="lac_label">LAC:</string>
     <string name="mcc_label">MCC:</string>
@@ -176,17 +160,14 @@
     <string name="serial_device_spinner_title">Ibenkan yettwafen:</string>
     <string name="timeout_spinner_prompt">Afran n tenzagt</string>
     <string name="command_hint">Sekcem taladna AT dagi.</string>
-
     <string name="sms_title">SMS asusam yettwaf</string>
     <string name="sms_message">SMS asusam yettwaf!
 \nTalqayt: Wali taffa n isefka.</string>
     <string name="table_contains_no_data">Tafelwit ur tegbir ara isefka.</string>
-
     <string name="title_ocid_key">Tasarut API OpenCellID</string>
     <string name="message_request_api_key">Senned ɣef IH akken ad tsutreḍ tasarut API si OpenCellID.org.Wagi ad k-yeǧǧ ad tsidreḍ isefka-nsen sakin ad ten-id-sekneḍ di tkarḍa. Ayagi ad k-yeǧǧ daɣen ad tazneḍ isefka n tibniqin. Ẓer d akken ma yella ur tuzneḍ ara isefka di 20 n wussan, tasarut-ik tezmer ad tens.</string>
     <string name="ocid_api_error">Tuccḍa deg awway n tsarut:</string>
     <string name="ocid_api_success">Tasarut API tamaynut tettwasekles.</string>
-
     <string name="title_debug_logs">Aɣmis n temseɣtayt</string>
     <string name="msg_copied_to_clipboard">Iɣmisen ttwaneɣlen ɣef afus.</string>
     <string name="title_activity_about_pop_up">ASEGZI LEQQAYEN</string>
@@ -196,7 +177,6 @@
     <string name="pref_notification_vibrate_min_level_title">Senhez ticki yella wayen ur yelhin ara</string>
     <string name="notification_vibrate_idle">Idle</string>
     <string name="notification_vibrate_danger">Amihaw</string>
-    
     <string name="pref_refresh_2s">2 n tasinin</string>
     <string name="pref_refresh_5s">5 n tasinin</string>
     <string name="pref_refresh_10s">10 n tasinin</string>
@@ -226,11 +206,9 @@
     <string name="status_idle">Idle</string>
     <string name="status_danger">Amihaw</string>
     <string name="title_activity_advanced_user">Kkes SMS yettwafen</string>
-
     <string name="adv_user_pref_header">Iɣewwaren n useqdac leqqayen</string>
     <string name="adv_user_pref_launch">Izriren n tifin</string>
     <string name="adv_user_pref_sms_summary">Kkes SMS yettwafen</string>
-   
     <string name="adv_user_root_title">Rmed tifin n SMS</string>
     <string name="detection_strings">Izriren n tifin</string>
     <string name="typezero_title">ƔUR-k!</string>
@@ -247,13 +225,10 @@
 \n</string>
     <string name="at_command_response_setup_complete">*** Asebded yemmed***
 \n</string>
-
     <string name="currently_connected_bts">BTS yeqqnen tura</string>
     <string name="unknown_or_insecure_bts">BTS arussin neɣ araɣelsan</string>
     <string name="new_or_recently_added_bts">BTS amaynut neɣ aneggaru yettwarnan</string>
-
     <string name="getting_ocid_key">Awway n tsarut API OpenCellID...</string>
-
     <string name="status_ok_detail_info">Ulac ayen n dir yettwafen, Asnas-nneɣ yessenqad yal tikelt aẓeṭṭa-ik s kra n walleln n ummesten i tesbaduḍ deg umuq akked ismenyifen.</string>
     <string name="status_medium_detail_info">Ulac ayen n dir yettwafen, Asnas-nneɣ yessenqad yal tikelt aẓeṭṭa-ik s kra n wallalen n ummesten i tesbaduḍ deg umuɣ akked ismenyifen.</string>
-    </resources>
+</resources>
